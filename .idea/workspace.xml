@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a7ecfe97-ce2f-4a00-acf3-914003896cfa" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/JavaBaseStudy/src/main/java/com/example/ZookeeperStudy/Demo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaBaseStudy/src/main/java/com/example/ZookeeperStudy/Demo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaBaseStudy/src/main/java/com/example/ZookeeperStudy/Demo3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,7 +37,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="develop" />
+        <entry key="$PROJECT_DIR$" value="master" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -183,11 +187,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.FinalTest" />
-        <item itemvalue="Application.example_list" />
-        <item itemvalue="Application.DynamicArray" />
         <item itemvalue="Application.Demo2" />
         <item itemvalue="Application.Demo1" />
+        <item itemvalue="Application.example_list" />
+        <item itemvalue="Application.FinalTest" />
+        <item itemvalue="Application.DynamicArray" />
       </list>
     </recent_temporary>
   </component>
@@ -213,34 +217,18 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1583553806854</updated>
-      <workItem from="1583553809729" duration="4839000" />
+      <workItem from="1583553809729" duration="4497000" />
     </task>
-    <task id="LOCAL-00001" summary="[+]zookeeper">
-      <created>1583563698994</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1583563698994</updated>
-    </task>
-    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="[+]zookeeper" />
-    <option name="LAST_COMMIT_MESSAGE" value="[+]zookeeper" />
-  </component>
   <component name="WindowStateProjectService">
-    <state x="2472" y="197" key="#Project_Structure" timestamp="1583564014789">
+    <state x="2472" y="197" key="#Project_Structure" timestamp="1583560690780">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
-    <state x="2472" y="197" key="#Project_Structure/0.0.1920.1040/1920.0.1920.1080@1920.0.1920.1080" timestamp="1583564014789" />
-    <state x="2480" y="132" key="CommitChangelistDialog2" timestamp="1583563696841">
-      <screen x="1920" y="0" width="1920" height="1080" />
-    </state>
-    <state x="2480" y="132" key="CommitChangelistDialog2/0.0.1920.1040/1920.0.1920.1080@1920.0.1920.1080" timestamp="1583563696841" />
+    <state x="2472" y="197" key="#Project_Structure/0.0.1920.1040/1920.0.1920.1080@1920.0.1920.1080" timestamp="1583560690780" />
     <state width="1876" height="145" key="GridCell.Tab.0.bottom" timestamp="1583562248177">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
@@ -273,34 +261,18 @@
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
     <state width="1876" height="358" key="GridCell.Tab.1.right/0.0.1920.1040/1920.0.1920.1080@1920.0.1920.1080" timestamp="1583560838039" />
-    <state x="2104" y="105" key="MergeDialog" timestamp="1583563920113">
+    <state x="2381" y="171" key="SettingsEditor" timestamp="1583560731899">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
-    <state x="2104" y="105" key="MergeDialog/0.0.1920.1040/1920.0.1920.1080@1920.0.1920.1080" timestamp="1583563920113" />
-    <state x="2589" y="254" key="MultipleFileMergeDialog" timestamp="1583563920186">
+    <state x="2381" y="171" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1080@1920.0.1920.1080" timestamp="1583560731899" />
+    <state x="2472" y="272" key="Vcs.Push.Dialog.v2" timestamp="1583563666164">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
-    <state x="2589" y="254" key="MultipleFileMergeDialog/0.0.1920.1040/1920.0.1920.1080@1920.0.1920.1080" timestamp="1583563920186" />
-    <state x="2381" y="171" key="SettingsEditor" timestamp="1583563986659">
+    <state x="2472" y="272" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1080@1920.0.1920.1080" timestamp="1583563666164" />
+    <state x="2577" y="330" key="git4idea.merge.GitPullDialog" timestamp="1583560220869">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
-    <state x="2381" y="171" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1080@1920.0.1920.1080" timestamp="1583563986659" />
-    <state x="2472" y="272" key="Vcs.Push.Dialog.v2" timestamp="1583563713891">
-      <screen x="1920" y="0" width="1920" height="1080" />
-    </state>
-    <state x="2472" y="272" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1080@1920.0.1920.1080" timestamp="1583563713891" />
-    <state x="2642" y="251" key="git4idea.branch.GitSmartOperationDialog" timestamp="1583563800412">
-      <screen x="1920" y="0" width="1920" height="1080" />
-    </state>
-    <state x="2642" y="251" key="git4idea.branch.GitSmartOperationDialog/0.0.1920.1040/1920.0.1920.1080@1920.0.1920.1080" timestamp="1583563800412" />
-    <state x="2664" y="330" key="git4idea.merge.GitMergeDialog" timestamp="1583563952546">
-      <screen x="1920" y="0" width="1920" height="1080" />
-    </state>
-    <state x="2664" y="330" key="git4idea.merge.GitMergeDialog/0.0.1920.1040/1920.0.1920.1080@1920.0.1920.1080" timestamp="1583563952546" />
-    <state x="2577" y="330" key="git4idea.merge.GitPullDialog" timestamp="1583563706614">
-      <screen x="1920" y="0" width="1920" height="1080" />
-    </state>
-    <state x="2577" y="330" key="git4idea.merge.GitPullDialog/0.0.1920.1040/1920.0.1920.1080@1920.0.1920.1080" timestamp="1583563706614" />
+    <state x="2577" y="330" key="git4idea.merge.GitPullDialog/0.0.1920.1040/1920.0.1920.1080@1920.0.1920.1080" timestamp="1583560220869" />
     <state x="2250" y="233" key="new project wizard" timestamp="1583553879242">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
