@@ -1,12 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a7ecfe97-ce2f-4a00-acf3-914003896cfa" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/JavaBaseStudy/src/main/java/com/example/ZookeeperStudy/Demo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaBaseStudy/src/main/java/com/example/ZookeeperStudy/Demo2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaBaseStudy/src/main/java/com/example/ZookeeperStudy/Demo3.java" afterDir="false" />
+    <list default="true" id="3620b14a-7ba8-4b9c-a91c-da3c755f344e" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -225,10 +221,10 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="2472" y="197" key="#Project_Structure" timestamp="1583560690780">
+    <state x="2472" y="197" key="#Project_Structure" timestamp="1583564586294">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
-    <state x="2472" y="197" key="#Project_Structure/0.0.1920.1040/1920.0.1920.1080@1920.0.1920.1080" timestamp="1583560690780" />
+    <state x="2472" y="197" key="#Project_Structure/0.0.1920.1040/1920.0.1920.1080@1920.0.1920.1080" timestamp="1583564586294" />
     <state width="1876" height="145" key="GridCell.Tab.0.bottom" timestamp="1583562248177">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
@@ -261,6 +257,14 @@
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
     <state width="1876" height="358" key="GridCell.Tab.1.right/0.0.1920.1040/1920.0.1920.1080@1920.0.1920.1080" timestamp="1583560838039" />
+    <state x="2104" y="105" key="MergeDialog" timestamp="1583564551241">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2104" y="105" key="MergeDialog/0.0.1920.1040/1920.0.1920.1080@1920.0.1920.1080" timestamp="1583564551241" />
+    <state x="2589" y="254" key="MultipleFileMergeDialog" timestamp="1583564551247">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2589" y="254" key="MultipleFileMergeDialog/0.0.1920.1040/1920.0.1920.1080@1920.0.1920.1080" timestamp="1583564551247" />
     <state x="2381" y="171" key="SettingsEditor" timestamp="1583560731899">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
