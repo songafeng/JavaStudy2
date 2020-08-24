@@ -1,6 +1,5 @@
 package com.example.StringStudy;
 
-import com.sun.deploy.util.StringUtils;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -45,7 +44,7 @@ public class example_string {
             list.add(String.valueOf(i));
         }
 
-        StringUtils.join(list, "");
+//        StringUtils.join(list, "");
         long te = System.currentTimeMillis();
         System.out.println("+ cost "+ (te - ts) +" ms");
     }

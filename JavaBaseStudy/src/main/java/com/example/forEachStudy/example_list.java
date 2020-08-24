@@ -10,19 +10,19 @@ public class example_list {
     }
 
     public static void main(String[] args) {
-        List<String> items = Arrays.asList("a","b","c","d","e");
-        for (String a: items) {
-            example_list.printValur(a);
-        }
-        //下面的for each循环和上面的循环是等价的
-        items.forEach(x->{
-            example_list.printValur(x);
-        });
-
-        items.forEach(System.out::println);
-
-        items.stream()
-                .filter(s->s.contains("b"))
-                .forEach(System.out::println);
+//        List<String> items = Arrays.asList("a","b","c","d","e");
+//        for (String a: items) {
+//            example_list.printValur(a);
+//        }
+//        //下面的for each循环和上面的循环是等价的
+//        items.forEach(x->{
+//            example_list.printValur(x);
+//        });
+//
+//        items.forEach(System.out::println);
+//
+//        items.stream()
+//                .filter(s->s.contains("b"))
+//                .forEach(System.out::println);
     }
 }
